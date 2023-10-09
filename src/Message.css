@@ -1,0 +1,12 @@
+.message {
+    padding: 10px;
+    margin: 10px;
+     width: fit-content; 
+    /* là một thuộc tính CSS được sử dụng để đặt chiều rộng của một phần tử HTML sao cho nó tự động thay đổi để vừa vặn với nội dung bên trong của nó, mà không làm tràn ra ngoài hoặc co lại quá mức  */
+}
+
+.message__user {
+    margin-left:  auto;
+    color: black;
+    text-align: right !important;
+}
